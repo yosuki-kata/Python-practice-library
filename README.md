@@ -9,7 +9,7 @@ This is my first repo for storing my usual practice codes.At the same time, ther
 ## About Python files📄
 I usually put some practice files here.
 Because it's a practice file.So I don't care if others will take my files and what will they use these files for.**These are all open source.**
-<em style="color: gray;">(Walt,am I putting too much emphasis on it?)</em>
+<em style="color: gray;">(Wait,am I putting too much emphasis on it?)</em>
 
 ## About the developer himself👦🏻
 I'm Chinese.Just a 15-year-old student.
@@ -20,4 +20,4 @@ In any case, I thank those who help me.Although I am writing README.md at this t
 <em style="color: gray;">(By the way, my English is not good, so all the contents here are mechanical translation)</em>
 
 
-<em style="color: gray;"><del>(Oh, I forgot to choose a specific open source protocol.Give me a minute.)</del></em>
+<em style="color: gray;"><del>(Oh, I forgot to choose a specific open source protocol.Give me sometime.)</del></em>
