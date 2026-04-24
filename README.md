@@ -16,7 +16,8 @@ I'm Chinese.Just a 15-year-old student.
 For such a field, it brings me curiosity and surprise.
 No one came to teach me or help me learn these things.Only I am trying to understand these codes.
 In any case, I thank those who help me.Although I am writing README.md at this time, no one has come to help me.😵
+
 <em style="color: gray;">(By the way, my English is not good, so all the contents here are mechanical translation)</em>
 
 
-<em style="color: gray;">(Oh, I forgot to choose a specific open source protocol.Give me a minute.))</em>
+<em style="color: gray;"><del>(Oh, I forgot to choose a specific open source protocol.Give me a minute.)</del></em>
